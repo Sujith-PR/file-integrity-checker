@@ -1,5 +1,8 @@
-https://roadmap.sh/projects/file-integrity-monitor
+Project URL: https://roadmap.sh/projects/file-integrity-monitor
+
 # File Integrity Checker
+
+A Python-based File Integrity Monitoring (FIM) tool that detects unauthorized file modifications using SHA-256 hashing.
 
 File Integrity Checker is a simple project to monitor changes in files and directories, helping you detect unauthorized modifications.
 
