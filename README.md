@@ -1,5 +1,4 @@
 https://roadmap.sh/projects/file-integrity-monitor
-
 # File Integrity Checker
 
 File Integrity Checker is a simple project to monitor changes in files and directories, helping you detect unauthorized modifications.
